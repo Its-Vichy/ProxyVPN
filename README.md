@@ -17,7 +17,7 @@
 -----
 
 * [Discord](https://vu.fr/rca-discord).
-* [Download](https://github.com/Its-Vichy/ProxyVPN).
+* [Download](https://cdn.discordapp.com/attachments/928359999376330812/928415270362574858/ProxyVPN.exe).
 
 -----
 
